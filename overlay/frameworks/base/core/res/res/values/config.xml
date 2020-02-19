@@ -451,4 +451,7 @@
     <!-- Whether device has notification LED -->
     <bool name="config_intrusiveBatteryLed">false</bool>
 
+    <!-- Whether device has warp charging support -->
+    <bool name="config_hasWarpCharger">true</bool>
+
 </resources>
