@@ -76,4 +76,7 @@
      <!-- Whether device ignores the RSSNR signal implementation -->
     <bool name="config_ignoreRssnrSignalLevel">true</bool>
 
+     <!-- Smart Charing is available -->
+    <bool name="config_smartChargingAvailable">true</bool>
+
 </resources>
